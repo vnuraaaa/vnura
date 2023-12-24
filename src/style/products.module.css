@@ -1,0 +1,19 @@
+.filtersWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.filtersWrapper h3 {
+  margin: 0;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.productsWrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
